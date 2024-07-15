@@ -1,12 +1,9 @@
 input: ./
 output: .retype
-url: randishvold.github.io
+url: randishvold.github.io/book
 
 edit:
   repo: https://github.com/Randishvold/book
-
-generator:
-  paths: root
 
 editor:
   enabled: false
