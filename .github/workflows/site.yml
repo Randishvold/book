@@ -1,4 +1,4 @@
-name: Push to website branch
+name: Publish to website branch
 on:
   workflow_dispatch:
   push:
@@ -7,7 +7,7 @@ on:
       
 jobs:
   publish:
-    name: Push to website branch
+    name: publish to website branch
 
     runs-on: ubuntu-latest
 
