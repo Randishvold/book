@@ -1,7 +1,6 @@
 ---
-label: Welcome
+label: Home
 icon: home
 ---
 
-# WELCOME TO MY SITE 
-
+![](/static/home.png)
