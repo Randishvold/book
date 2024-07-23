@@ -53,38 +53,38 @@ Fungsi fiber optik: jaringan komunikasi, sensor, pencahayaan, medis.
 2. SC Adapter:
 - Tersedia dalam single mode, multimode, simpleks, dan duplex.
 - Housing plastik dengan warna:
- - Biru untuk PC single mode
- - Hijau untuk APC single mode dan multimode beige PC
+  - Biru untuk PC single mode
+  - Hijau untuk APC single mode dan multimode beige PC
 - Tipe flange:
- - Single mode: lengan zirkonia
- - Multimode: lengan perunggu 
+  - Single mode: lengan zirkonia
+  - Multimode: lengan perunggu 
 
 3. LC Adapter:
 - Housing plastik dengan simpleks dan duplex.
 - Warna sama dengan SC Adapter.
 - Lengan:
- - Multimode: perunggu
- - Single mode: zirkonia 
+  - Multimode: perunggu
+  - Single mode: zirkonia 
 
 4. ST Adapter:
 - Jenis ulir dengan housing logam.
 - Lengan: 
- - Single mode: zirkonia
- - Multimode: perunggu 
+  - Single mode: zirkonia
+  - Multimode: perunggu 
 
 5. Splitter Optik:
 - Memisahkan daya optik dari satu input ke beberapa output.
 - Jenis: 
- - 1:2 (tanpa back-up)
- - 1:4 (tanpa back-up)
- - 1:8 (tanpa back-up)
- - 1:16 (tanpa back-up)
- - 1:32 (tanpa back-up)
- - 2:2 (dengan back-up)
- - 2:4 (dengan back-up)
- - 2:8 (dengan back-up)
- - 2:16 (dengan back-up)
- - 2:32 (dengan back-up) 
+  - 1:2 (tanpa back-up)
+  - 1:4 (tanpa back-up)
+  - 1:8 (tanpa back-up)
+  - 1:16 (tanpa back-up)
+  - 1:32 (tanpa back-up)
+  - 2:2 (dengan back-up)
+  - 2:4 (dengan back-up)
+  - 2:8 (dengan back-up)
+  - 2:16 (dengan back-up)
+  - 2:32 (dengan back-up) 
 
 6. Fiber Node:
 - Mengubah sinyal optik menjadi elektrik dan sebaliknya.

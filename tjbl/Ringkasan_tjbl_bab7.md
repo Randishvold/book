@@ -64,16 +64,17 @@ d. Membuat sejajar serat dan fusion splicing
 e. Penyambungan fiber optik pada ARC
 f. Mengecek hasil sambungan
 
-Perkiraan Kualitas Sambungan Fusion Splicing:
+> Perkiraan Kualitas Sambungan Fusion Splicing:
 1. Gelembung
 2. Garis tebal
 3. Bayangan hitam
 
-Metode Perkiraan Fusion Splicing Loss:
+> Metode Perkiraan Fusion Splicing Loss:
 1. Local Injection and Ditection (LID)
 2. Direct Core Monitoring (DCM)
 
 4. Mechanical Splicing:
+
 Digunakan untuk menyambungkan serat single mode dan multimode dengan diameter cladding 125 µm. Diameter coating yang digunakan antara 250-900 μm.
 
 Peralatan Mechanical Splicing:
