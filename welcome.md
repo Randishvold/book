@@ -6,6 +6,7 @@ icon: home
 ![](/static/home.png)
 
 ## DAFTAR ISI
-- TJBL
-  - [](/tjbl/Ringkasan-tjbl-bab6.md)
-  - [](/tjbl/Ringkasan-tjbl-bab7.md)
+- Ringkasan
+  - [TJBL BAB 6](/Ringkasan/tjbl/Ringkasan-tjbl-bab6.md)
+  - [TJBL BAB 7](/Ringkasan/tjbl/Ringkasan-tjbl-bab7.md)
+  - [Pkkwu](/Ringkasan/pkkwu/pkkwu.md)
