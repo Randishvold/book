@@ -1,7 +1,7 @@
 ---
 label: Home
 icon: home
-tittle: Book
+title: Book
 ---
 
 ![](/static/home.png)
